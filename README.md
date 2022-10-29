@@ -2,7 +2,7 @@
 ## Assignment-2---If-This-Then-That-forms
 
 - author: Jian Villanueva
-- github pages link: 
+- github pages link:https://jiansk.github.io/cpnt262-Assignment-2---If-This-Then-That-forms-/
 
 - figma prototype link(above and beyond):https://www.figma.com/proto/0iCXhL5fiGKnJnVhJ9BOeU/Untitled?node-id=1%3A3&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A3
 - figma link(above and beyond):https://www.figma.com/file/0iCXhL5fiGKnJnVhJ9BOeU/Untitled?node-id=0%3A1
